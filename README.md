@@ -6,7 +6,7 @@ Here, I first visualied the dirstribution of the Iris dataset. And the most inte
 ![image](https://github.com/mahdis-repo/Iris-Classification/assets/145799768/d5bb4fff-4cb1-4e9c-90dd-3f0aa6daf475)
 
 ## dividing the dataset into train and test
-I devided the dataset experiment a little on the learning process of the models:
+I devided the dataset in order to experiment a little on the learning process of the models:
 
 ```ruby
 from sklearn.model_selection import train_test_split
