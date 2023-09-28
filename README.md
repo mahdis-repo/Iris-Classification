@@ -8,7 +8,7 @@ Here, I first visualied the dirstribution of the Iris dataset. And the most inte
 ## dividing the dataset into train and test
 I devided the dataset experiment a little on the learning process of the models:
 
-```
+```ruby
 from sklearn.model_selection import train_test_split
 
 X = iris.drop(columns = ['Species'])
