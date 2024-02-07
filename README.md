@@ -32,3 +32,5 @@ I implemented 9 different models with both tensorflow and sci-kit learn to see w
 
 ## Note:
 This is a fairly small dataset, so maybe I try this experimental process later on a larger dataset.
+
+Also, instead of copy pasting many lines, I could have created a function in order to implement the architecture and layers. I did this in my other project, **Image Localization with CNNs**.
